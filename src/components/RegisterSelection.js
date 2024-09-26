@@ -23,7 +23,7 @@ const RegisterSelection = () => {
             Welcome to insightX, where the future of radiology begins! We are thrilled to have you join our platform.
           </p>
           <p className="mt-4">
-            Have an account? <a href="/login" className="text-blue-600 underline">Log in</a>
+            Have an account? <a href="/" className="text-blue-600 underline">Log in</a>
           </p>
         </div>
 

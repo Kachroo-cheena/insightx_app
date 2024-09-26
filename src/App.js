@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/login" element={<Login />} />
+        <Route path="/" element={<Login />} />
         <Route path="/register" element={<RegisterSelection />} />
         <Route path="/register/:role" element={<RegisterForm />} />
       </Routes>
